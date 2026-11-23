@@ -20,3 +20,16 @@ Primary stakeholders: Urška Sršen and Sando Mur, members of Bellabeat's execut
 Secondary stakeholders: Bellabeat's marketing analytics team.
 ## 2-Prepare
 FitBit Fitness Tracker Data [https://www.kaggle.com/datasets/arashnic/fitbit] : This Kaggle data set contains personal fitness tracker data from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
+A good data source is  **ROCCC** which stands for Reliable, Original, Comprehensive, Current, and Cited.
+
+ **Reliable** — _LOW_ — Not reliable as it only has 30 respondents
+
+**Original** — _LOW_ — Third party provider (Amazon Mechanical Turk)
+
+**Comprehensive** — _MED_ — Data minute-level output for physical activity, heart rate, and sleep monitoring. While the data tracks many factors in the user activity and sleep, but the sample size is small and most data is recorded during certain days of the week.
+
+**Current** — _LOW_ — Data is 6 years old and may not be relevant
+
+**Cited** — _LOW_ — Data collected from third party, hence unknown
+
+Data selection: dailyActivity_merged.csv is selected and copied for analysis.
