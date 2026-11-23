@@ -19,4 +19,4 @@ Primary stakeholders: Urška Sršen and Sando Mur, members of Bellabeat's execut
 
 Secondary stakeholders: Bellabeat's marketing analytics team.
 ## 2-Prepare
-FitBit Fitness Tracker Data : This Kaggle data set contains personal fitness tracker data from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
+FitBit Fitness Tracker Data [https://www.kaggle.com/datasets/arashnic/fitbit] : This Kaggle data set contains personal fitness tracker data from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
